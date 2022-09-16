@@ -1,0 +1,33 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size: 15px;
+  color:beige;
+}
+body
+{
+    background-image: url("background.jfif");
+    background-size: cover;
+  ;	
+}
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 10px lightgoldenrodyellow;
+    background-color: black;
+  }
+
+  #title1{
+    color: azure;
+  }
